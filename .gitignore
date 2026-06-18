@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Heavy files
+XFEL_exports
+sources/self_consistent_results/20um/h5

@@ -1,0 +1,19 @@
+#Parameter	Value	Fit	Min	Max	Error	
+number_repetitions 20
+top_B4C.setDens	0.0271	True	1.3733e-02	6.0000e-02	-	
+top_B4C.setD	20	True	5.0000e+00	6.0000e+01	-	
+top_B4C.setSigma	0	True	1.0000e+00	1.0000e+01	-	
+B4C.setDens	0.0271	True	1.3733e-02	5.4930e-02	-	
+B4C.setD	20	True	1.0000e+01	4.0000e+01	-	
+B4C.setSigma	0	True	1.0000e+00	4.0000e+00	-	
+Cu.setDens	0.0849	True	8.0000e-02	1.6982e-01	-	
+Cu.setD	20	True	1.0000e+01	4.0000e+01	-	
+Cu.setSigma	0	True	1.0000e+00	4.0000e+00	-	
+SiC.setDens	0.0483	True	2.4181e-02	4.0000e-02	-	
+SiC.setD	20	False	1.0000e+01	4.0000e+01	-	
+SiC.setSigma	0	True	1.0000e+00	4.0000e+00	-	
+bottom_SiO2.setDens	0.0265	True	1.3270e-02	5.3081e-02	-	
+bottom_SiO2.setD	15	True	1.0000e+00	6.0000e+01	-	
+bottom_SiO2.setSigma	0	True	1.0000e+00	1.0000e+01	-	
+Sub.setSigma	0	True	1.0000e+00	4.0000e+00	-	
+cp.setPeriodML	60	True	4.5000e+01	7.5000e+01	-	
