@@ -6,5 +6,5 @@ __pycache__/
 *.ipynb_checkpoints
 
 # Heavy files
-XFEL_exports
-sources/self_consistent_results/20um/h5
+XFEL_exports/*.h5
+sources/self_consistent_results/20um/h5/*.h5
