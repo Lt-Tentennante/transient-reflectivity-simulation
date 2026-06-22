@@ -1,9 +1,6 @@
 # Simulation of the transient reflectivity of a nanostructured multilayer
 To run the notebooks contained in this folder you need a custom environment. Follow the instructions in `./env_creation/README.md` to setup the custom environment.
 
-## TASsello_example.ipynb
-A minimal notebook that provides an example on how to use the TASsello library. 
-
 ## 2level_fit.ipynb
 This notebook is used to fit the X-Ray Reflectivity (XRR) curve to the experimental data. The notebook relies on the XRR module to simulate a reflectivity curve where the scattering factor of Cu atoms contains a resonant contribution. The parameters of this resonance are to be fitted against experimental data.
 
